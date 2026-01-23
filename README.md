@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Noe and I am a student at UC Davis.
+My name is Noe and I am a student at UC Davis studying Design and minoring in Data in Society. I am interested in how design can be used to connect and inform.
 
 <!--
 **noefoehr/noefoehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
